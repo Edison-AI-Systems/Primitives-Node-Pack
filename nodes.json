@@ -1,6 +1,7 @@
 [
-    "./Input/dist/input.js",
-    "./Output/dist/output.js",
-    "./Passthrough/dist/passthrough.js",
-    "./Text/dist/text.js"
+    "./Boolean/dist/bundle.js",
+    "./Number/dist/bundle.js",
+    "./String/dist/bundle.js",
+    "./Array/dist/bundle.js",
+    "./Object/dist/bundle.js"
 ]

@@ -1,2 +1,2 @@
-# Basic-Nodes
-Basic nodes (input, output, pass-through, text) for use in the Edison Visual Editor
+# Primitives-Node-Pack
+Nodes for primitive values (Boolean, Number, String, Array, Object)
